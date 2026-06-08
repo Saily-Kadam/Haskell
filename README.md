@@ -1,1 +1,1 @@
-This repository contains Haskell Programs
+This repository contains Haskell Programs.
