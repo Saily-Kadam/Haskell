@@ -2,7 +2,6 @@ myGCD :: Int -> Int -> Int
 myGCD a 0 = a 
 myGCD a b = myGCD b (a `mod` b )
 
-
 main :: IO ()
 main = do
     putStrLn "Enter first number"
