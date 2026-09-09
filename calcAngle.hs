@@ -16,4 +16,4 @@ main = do
             putStrLn $ "Angle B : " ++ show (calcAngle b a c) ++ "degrees"
             putStrLn $ "Angle C : " ++ show (calcAngle c a b) ++ "degrees"
         else do
-            putStrLn "Invalid Triangle"
+            putStrLn "Invalid Triangle" 
