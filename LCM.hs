@@ -11,7 +11,7 @@ main = do
     input1 <- getLine
     putStrLn "Enter second number"
     input2 <- getLine
-    
+     
     let a = read input1 :: Int
         b = read input2 :: Int
         result = myLCM a b 
