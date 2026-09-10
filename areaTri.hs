@@ -9,4 +9,4 @@ main = do
   
   let s = (a + b + c) / 2  
       area  = sqrt (s * (s - a) * (s - b) * (s - c))
-  putStrLn $ "Area is: " ++ show area
+  putStrLn $ "Area is: " ++ show area 
